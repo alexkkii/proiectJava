@@ -1,0 +1,15 @@
+Aplicatia reprezinta un tabel cu 3 coloane
+	-Category
+	-Description
+	-Second Description
+
+Functionalitati:
+	-Exista optiunea de a schimba numele celor 3 coloane
+	-Avem functia de adaugare text, valabila pentru fiecare dintre acestea
+	-Functia delete: Sterge ultimul input
+	-Functia modify: Modifica ultimul input
+	-Functia dark mode: Schimba culoare de fundal(negru) si text(verde) in tabelul de text al coloanelor
+
+Posibile viitoare imbunatatiri ale aplicatiei:
+	- O functie de adaugare coloane si implicit denumirea acesteia
+	- Adaugarea unei coloane numite "NR CRT" ca fiind prima coloana prezenta in aplicatie care sa numeroteze numarul de adaugari text
